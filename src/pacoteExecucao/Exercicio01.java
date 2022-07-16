@@ -46,6 +46,9 @@ public class Exercicio01 {
 		
 		System.out.println("Valor total de R$ " + valorTotal);
 		
+		System.out.println("Obrigado por realizar suas compras conosco");
+		System.out.println("Até a próxima!");
+		
 		sc.close();
 		
 		}
